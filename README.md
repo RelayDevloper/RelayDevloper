@@ -62,6 +62,7 @@ I'm a developer who loves VScode and Github.
 
 <p align="center">
   <a href="https://github.com/RelayDevloper/movie-anime-fetcher"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RelayDevloper&repo=movie-anime-fetcher&theme=tokyonight&hide_border=true&show_description=true" /></a>
+  <a href="https://github.com/RelayDevloper/NeoDex"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RelayDevloper&repo=NeoDex&theme=tokyonight&hide_border=true&show_description=true" /></a>
 </p>
 
 ## 💭 Dev Quote
